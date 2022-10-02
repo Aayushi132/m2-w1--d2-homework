@@ -46,9 +46,7 @@ $(document).ready(function () {
        $("#showven td:nth-child(4)").append(jqdata.ven3);
        $("#showven td:last-child").append(jqdata.ven4);
 
-    //   
-    //   $("#showcalories p:nth-child(2)").append("AGE: " + jqdata.;
-    //   $("#showfat p:last-child").append("SEX: " + jqdata.);
+  
     });
   });
 });
